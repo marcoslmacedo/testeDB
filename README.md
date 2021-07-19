@@ -3,11 +3,11 @@ Repositório para arquivos de teste
 
 Estes Scripts foram criados usando Python 3.8.0.  Para poder rodá-los, é necessário ter python 3.x instalado.  É aconselhado fazer uso de um Virtual Environment para rodá-los também.
 
-1 - Instalar Python (garantir que o python será adicionado ao Path do sistema)
-2 - Criar um Virtual Environment (virtualenv {nome do ambiente} 
-3 - Ativar o Virtual Environment ($ source <venv>/bin/activate no Linux/Mac ou C:\> <venv>\Scripts\activate.bat no windows terminal do windows)
-4 - Instalar os requirements.txt (pip install -r requirements.txt)
-5 - Instalar o webdriver do chrome e disponnibilizá-lo no Path do sistema (https://chromedriver.chromium.org/downloads)  
+- Instalar Python (garantir que o python será adicionado ao Path do sistema)
+- Criar um Virtual Environment (virtualenv {nome do ambiente} 
+- Ativar o Virtual Environment ($ source <venv>/bin/activate no Linux/Mac ou C:\> <venv>\Scripts\activate.bat no windows terminal do windows)
+- Instalar os requirements.txt (pip install -r requirements.txt)
+- Instalar o webdriver do chrome e disponnibilizá-lo no Path do sistema (https://chromedriver.chromium.org/downloads)  
   
 Feitas as configurações, os arquivos do projeto podem ser rodados da seguinte maneira:
   
